@@ -6,4 +6,4 @@ unlike JS we can also run node code on a simple computer using terminal like oth
 
 command used in terminal is -:  
 
-node <filemname>
+node filemname.js
